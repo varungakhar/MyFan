@@ -1,0 +1,42 @@
+PODS:
+  - ActiveLabel (0.8.1)
+  - Alamofire (4.6.0)
+  - IQKeyboardManager (5.0.7)
+  - Kingfisher (4.6.1)
+  - NVActivityIndicatorView (4.1.1):
+    - NVActivityIndicatorView/Presenter (= 4.1.1)
+  - NVActivityIndicatorView/Presenter (4.1.1)
+  - TagCellLayout (1.0)
+  - WSTagsField (2.1.2)
+
+DEPENDENCIES:
+  - ActiveLabel
+  - Alamofire
+  - IQKeyboardManager
+  - Kingfisher
+  - NVActivityIndicatorView
+  - TagCellLayout
+  - WSTagsField
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ActiveLabel
+    - Alamofire
+    - IQKeyboardManager
+    - Kingfisher
+    - NVActivityIndicatorView
+    - TagCellLayout
+    - WSTagsField
+
+SPEC CHECKSUMS:
+  ActiveLabel: e361127c355b911a467db3d5a897b3d7f902e568
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  IQKeyboardManager: 0bfa4607d39924116b5c0c8b55b5d789288b5cba
+  Kingfisher: 1f9157d9c02b380cbd0b7cc890161195164eb634
+  NVActivityIndicatorView: 60109b9bf46efc2e71ab81453196ccdfdfeea870
+  TagCellLayout: e138f3f59ba3993b332bb1a4ff84f9b624ed1af2
+  WSTagsField: 3abc2553b94cd5caeb7fe5ba5e4668772714bbe8
+
+PODFILE CHECKSUM: 7d276711af546ddf5bf5c16911d4948539288097
+
+COCOAPODS: 1.5.3
